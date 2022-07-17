@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:menuCategory="container">
+        <item android:id="@+id/menu_fav"
+            android:title="Favorite"
+            android:icon = "@drawable/v_fav_red"
+            app:showAsAction="always" />
+        <item android:id="@+id/menu_theme"
+            android:title="Theme"
+            app:showAsAction="collapseActionView"
+            />
+    </group>
+</menu>
