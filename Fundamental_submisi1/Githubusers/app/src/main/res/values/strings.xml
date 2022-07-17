@@ -1,0 +1,139 @@
+<resources>
+    <string name="app_name">Github user\'s</string>
+    <string name="git_username">username</string>
+    <string name="git_name">nama</string>
+    <string name="git_company">git_company</string>
+    <string name="Followers">s_followers</string>
+    <string name="Following">s_following</string>
+    <string name="Company">s_company</string>
+    <string name="Location">s_loc</string>
+    <string name="Repository">s_repository</string>
+    <string name="gambar">foto_profil</string>
+    <string name="foto_profil">foto_profil</string>
+    <string name="heroes_name">"Username "</string>
+    <string name="description">nama</string>
+    <string name="Deskripsi">Deskripsi</string>
+
+    <string-array name="uname">
+        <item>JakeWharton</item>
+        <item>amitshekhariitbhu</item>
+        <item>romainguy</item>
+        <item>chrisbanes</item>
+        <item>tipsy</item>
+        <item>ravi8x</item>
+        <item>jasoet</item>
+        <item>budioktaviyan</item>
+        <item>hendisantika</item>
+        <item>sidiqpermana</item>
+    </string-array>
+
+    <string-array name="name">
+        <item>Jake Wharton</item>
+        <item>Amit Shekhar</item>
+        <item>Romain Guy</item>
+        <item>Chris Banes</item>
+        <item>David</item>
+        <item>Ravi Tamada</item>
+        <item>Deny Prasetyo</item>
+        <item>Budi Oktaviyan</item>
+        <item>Hendi Santika</item>
+        <item>Sidiq Permana</item>
+    </string-array>
+
+    <string-array name="deskripsi">
+    <item>Username      : JakeWharton\n
+          Nama          : Jake Wharton\n
+          Company 	    : Google, Inc.\n
+	      Location		: Pittsburgh, PA, USA\n
+	      Repository	: 102 \n
+	      Followers		: 56995\n
+	      Following		: 12\n
+
+	</item>
+    <item>Username      : amitshekhariitbhu\n
+          Nama          : Amit Shekhar\n
+          Company 		: IndOrksOpenSource\n
+	      Location		: New Delhi, India\n
+	      Repository	: 37 \n
+	      Followers		: 5153\n
+	      Following		: 2\n
+	</item>
+    <item>Username      : romainguy\n
+          Nama          : Romain Guy\n
+          Company 		: Google\n
+	      Location		: California\n
+	      Repository	: 9\n
+	      Followers		: 7972\n
+	      Following		: 0\n
+	</item>
+    <item>Username      : chrisbanes\n
+          Nama          : Chris Banes\n
+          Company 		: Google working on @android\n
+	      Location		: Sydney, Australia\n
+	      Repository	: 30\n
+	      Followers		: 14725\n
+	      Following		: 1\n
+	</item>
+    <item>Username      : tipsy\n
+          Nama          : David\n
+          Company 		: Working Group Two\n
+	      Location		: Trondheim, Norway\n
+	      Repository	: 56\n
+	      Followers		: 788\n
+	      Following		: 0\n
+	</item>
+    <item>Username      : ravi8x\n
+          Nama          : Ravi Tamada\n
+          Company 		: AndroidHive | Droid5\n
+	      Location		: India\n
+	      Repository	: 28\n
+	      Followers		: 18628\n
+	      Following		: 3\n
+	</item>
+    <item>Username      : jasoet\n
+          Nama          : Deny Prasetyo\n
+          Company 		: gojek-engineering\n
+	      Location		: Kotagede, Yogyakarta, Indonesia\n
+	      Repository	: 44\n
+	      Followers		: 277\n
+	      Following		: 39\n
+	</item>
+    <item>Username      : budioktaviyan\n
+          Nama          : Budi Oktaviyan\n
+          Company 		: KotlinID\n
+	      Location		: Jakarta, Indonesia\n
+	      Repository	: 110\n
+	      Followers		: 178\n
+	      Following		: 23\n
+	</item>
+    <item>Username      : hendisantika\n
+          Nama          : Hendi Santika\n
+          Company 		: JVMDeveloperID @KotlinID @IDDevOps\n
+	      Location		: Bojongsoang - Bandung Jawa Barat\n
+	      Repository	: 1064\n
+	      Followers		: 428\n
+	      Following		: 61\n
+	</item>
+    <item>Username      : sidiqpermana\n
+          Nama          : Sidiq Permana\n
+          Company 	    : Nusantara Beta Studio\n
+	      Location		: Jakarta Indonesia\n
+	      Repository	: 65\n
+	      Followers		: 465\n
+	      Following		: 10\n
+	</item>
+    </string-array>
+
+    <string-array name="avatar">
+        <item>@drawable/user1</item>
+        <item>@drawable/user2</item>
+        <item>@drawable/user3</item>
+        <item>@drawable/user4</item>
+        <item>@drawable/user5</item>
+        <item>@drawable/user6</item>
+        <item>@drawable/user7</item>
+        <item>@drawable/user8</item>
+        <item>@drawable/user9</item>
+        <item>@drawable/user10</item>
+    </string-array>
+</resources>
